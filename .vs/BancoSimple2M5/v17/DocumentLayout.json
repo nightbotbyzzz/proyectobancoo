@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\data\\bancosimple2m5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\data\\bancosimple2m5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\bancosimple2m5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\agregarcuentasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\agregarcuentasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\bancosimple2m5\\agregarclienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\agregarclienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\bancosimple2m5\\transferenciaforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\transferenciaforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\agregarclienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\agregarclienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\bancosimple2m5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|c:\\users\\bonni\\downloads\\mejora-del-proyecto-bancosimple2m5-master\\mejora-del-proyecto-bancosimple2m5-master\\bancosimple2m5\\transferenciaforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1537AF-B3EA-4CA2-82DB-30D2F93721A3}|BancoSimple2M5\\BancoSimple2M5.csproj|solutionrelative:bancosimple2m5\\transferenciaforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\CuentaService.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\CuentaService.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\CuentaService.cs",
+              "RelativeToolTip": "BancoSimple2M5\\CuentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:56:13.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgregarCuentasForm.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\AgregarCuentasForm.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\AgregarCuentasForm.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\AgregarCuentasForm.cs",
+              "RelativeToolTip": "BancoSimple2M5\\AgregarCuentasForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:05:51.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Form1.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Form1.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Form1.cs",
+              "RelativeToolTip": "BancoSimple2M5\\Form1.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwFEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:05:54.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Form1.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Form1.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BancoSimple2M5\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:07:30.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Models\\Cuenta.cs",
+              "RelativeToolTip": "BancoSimple2M5\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:49:38.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancoSimple2M5Context.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Data\\BancoSimple2M5Context.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Data\\BancoSimple2M5Context.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Data\\BancoSimple2M5Context.cs",
+              "RelativeToolTip": "BancoSimple2M5\\Data\\BancoSimple2M5Context.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:49:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Models\\Cliente.cs",
+              "RelativeToolTip": "BancoSimple2M5\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:49:36.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Models\\Transaccion.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Models\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Models\\Transaccion.cs",
+              "RelativeToolTip": "BancoSimple2M5\\Models\\Transaccion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:49:40.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgregarClienteForms.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\AgregarClienteForms.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\AgregarClienteForms.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\AgregarClienteForms.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BancoSimple2M5\\AgregarClienteForms.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:06:29.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Program.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Program.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Program.cs",
+              "RelativeToolTip": "BancoSimple2M5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:49:07.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransferenciaForms.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\TransferenciaForms.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\TransferenciaForms.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\TransferenciaForms.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BancoSimple2M5\\TransferenciaForms.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:07:23.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgregarClienteForms.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\AgregarClienteForms.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\AgregarClienteForms.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\AgregarClienteForms.cs",
+              "RelativeToolTip": "BancoSimple2M5\\AgregarClienteForms.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:05:48.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Form2.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\Form2.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BancoSimple2M5\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:05:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransferenciaForms.cs",
+              "DocumentMoniker": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\TransferenciaForms.cs",
+              "RelativeDocumentMoniker": "BancoSimple2M5\\TransferenciaForms.cs",
+              "ToolTip": "C:\\Users\\bonni\\Downloads\\Mejora-del-Proyecto-BancoSimple2m5-master\\Mejora-del-Proyecto-BancoSimple2m5-master\\BancoSimple2M5\\TransferenciaForms.cs",
+              "RelativeToolTip": "BancoSimple2M5\\TransferenciaForms.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:49:09.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
